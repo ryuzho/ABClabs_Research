@@ -3,7 +3,7 @@ Smart Farm AI solution start-up ABClabs - Internship in 2021 SUMMER(21.06 ~ 21.0
 
 ML for DLI prediction and reservoir water level prediction
 
-<img width="1014" alt="스크린샷 2022-05-23 오후 6 26 27" src="https://user-images.githubusercontent.com/77534983/169788521-2955b4f4-501d-4082-8054-f58b3a10e824.png">
+<img width="807" alt="스크린샷 2022-05-23 오후 6 30 06" src="https://user-images.githubusercontent.com/77534983/169789257-c9f06eb0-0720-4697-87df-c0d069027ef5.png">
 <img width="889" alt="스크린샷 2022-05-23 오후 6 26 43" src="https://user-images.githubusercontent.com/77534983/169788575-72382eab-73a0-4a98-89b2-db2cf3fd7c90.png">
 <img width="902" alt="스크린샷 2022-05-23 오후 6 26 52" src="https://user-images.githubusercontent.com/77534983/169788610-c9313354-a983-4368-a802-ad16e19306d4.png">
 <img width="918" alt="스크린샷 2022-05-23 오후 6 27 03" src="https://user-images.githubusercontent.com/77534983/169788644-9ece89a9-121f-4724-8716-053f7527ebdc.png">
