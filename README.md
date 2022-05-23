@@ -14,3 +14,11 @@ ML for DLI prediction and reservoir water level prediction
 <img width="802" alt="스크린샷 2022-05-23 오후 6 33 25" src="https://user-images.githubusercontent.com/77534983/169789932-3fb8110a-8bf9-4813-82ff-1e62a731bd6a.png">
 
 ## Reservoir water level prediction
+<img width="996" alt="스크린샷 2022-05-23 오후 6 52 08" src="https://user-images.githubusercontent.com/77534983/169793747-e5a963f6-0300-405e-ab94-6a822236e956.png">
+<img width="1167" alt="스크린샷 2022-05-23 오후 6 53 56" src="https://user-images.githubusercontent.com/77534983/169793973-97b88d41-6ad0-4491-8aeb-29f4d770b755.png">
+<img width="1033" alt="스크린샷 2022-05-23 오후 6 54 29" src="https://user-images.githubusercontent.com/77534983/169794098-df1499c3-25cd-4768-b875-f3a457ad29b6.png">
+<img width="1174" alt="스크린샷 2022-05-23 오후 6 55 04" src="https://user-images.githubusercontent.com/77534983/169794223-58823391-1242-44f6-94fb-f3ed1686f751.png">
+<img width="1168" alt="스크린샷 2022-05-23 오후 6 55 20" src="https://user-images.githubusercontent.com/77534983/169794278-95d6ba3a-2982-4f46-b852-783397f308d0.png">
+<img width="1114" alt="스크린샷 2022-05-23 오후 6 55 38" src="https://user-images.githubusercontent.com/77534983/169794336-afb2a643-f2aa-406a-bf5a-694ace338b69.png">
+<img width="1220" alt="스크린샷 2022-05-23 오후 6 56 02" src="https://user-images.githubusercontent.com/77534983/169794410-c42b6cda-309b-40b6-8e20-cabf452ba6ef.png">
+<img width="1242" alt="스크린샷 2022-05-23 오후 6 56 16" src="https://user-images.githubusercontent.com/77534983/169794451-888f8aaa-6d0e-4f5c-91ca-de148bd98081.png">
